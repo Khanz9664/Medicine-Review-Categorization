@@ -23,7 +23,7 @@ This project is a web-based application designed to classify medicine reviews in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/medicine-review-classification.git
+   git clone https://github.com/Khanz9664/medicine-review-categorization.git
    cd medicine-review-classification
    ```
 2. Install dependencies:
