@@ -1,4 +1,4 @@
-# Medicine Review Classification
+# Medicine Review Categorization 
 
 This project is a web-based application designed to classify medicine reviews into predefined categories based on their uses, side effects, and manufacturer. Built using Streamlit, the application leverages machine learning to provide quick and accurate predictions, enabling healthcare professionals, pharmaceutical companies, and patients to gain insights into medicine reviews.
 
