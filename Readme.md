@@ -77,6 +77,9 @@ These files will be created when you have run the notebook on your local machine
 ## Dependencies
 
 - Python 3.8+
+- Numpy
+- Pandas
+- Matplotlib 
 - Streamlit
 - scikit-learn
 - joblib
